@@ -1,0 +1,16 @@
+<resources>
+    <style name="CalenderViewCustom">
+        <item name="colorAccent">#FF4E4E4E</item>
+        <item name="colorPrimary">@color/white</item>
+        <item name="android:textColorPrimary">@color/white</item>
+    </style>
+    <style name="CalenderViewDateCustomText">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:weekNumberColor">@color/white</item>
+        <item name="android:headerYearTextAppearance">@color/white</item>
+    </style>
+    <style name="CalenderViewWeekCustomText">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+</resources>

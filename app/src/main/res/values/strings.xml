@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Rokovi</string>
+
+    <string-array name="Rokovi">
+        <item>-</item>
+        <item>8</item>
+        <item>15</item>
+        <item>8 + 8</item>
+        <item>30</item>
+    </string-array>
+</resources>
