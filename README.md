@@ -1,4 +1,12 @@
 # Rokovi-Android
+Rokovi is an app made for computers and android devices.
+
+The computer version was created in Java while the android version was created in the Android Studio.
+
+The application gives the user ability to select the date and number of days of the deadline.
+
+After the user selects the date and number of days of the deadline, application calculates and displays the expiration date (the date must be
+working day), taking into account weekends and Croatian holidays.
 
 # Needed tools:
 - Android Studio (Download Android Studio [here](https://developer.android.com/studio))
