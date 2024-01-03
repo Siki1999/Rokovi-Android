@@ -25,6 +25,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".CalendarActivity" />
+        <activity android:name=".PrazniciActivity" />
 
         <meta-data
             android:name="preloaded_fonts"
